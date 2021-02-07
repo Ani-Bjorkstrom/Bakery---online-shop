@@ -175,7 +175,15 @@ header a:hover{
 
 
 
-}	
+}
+
+.cv {
+	position: relative;
+	margin: 0.8vw 0;
+	padding: 1.2vw 1.8vw;
+	width: auto;
+	border: none;
+}
 
 .row {
 	position: relative;
@@ -216,6 +224,17 @@ header a:hover{
 	
 	
 }
+
+.cv input {
+	width: 100%;
+	border: none;
+	padding: 1.2vw 0;
+	cursor: pointer;
+	resize: vertical;
+	font-size: 1vw;
+}
+
+
 
 .button_submit {
 	position: absolute;
